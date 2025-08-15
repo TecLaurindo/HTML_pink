@@ -1,3 +1,3 @@
 # HTML pink
 
-Direotrios de Sites pra minha namorada e familiares
+Programas em HTML com tematicas de presente pra pessoas que vc gosta.
